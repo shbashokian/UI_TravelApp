@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![image info](Travel1.png)
+![](Travel1.png =250x)
 
 ## Getting Started
 

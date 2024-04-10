@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-![](Travel1.png){width=40%}
+![](Travel1.png){height=250px}
 
 ## Getting Started
 

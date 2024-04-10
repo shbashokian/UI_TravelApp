@@ -3,7 +3,8 @@
 A new Flutter project.
 
 
-![](Travel1.png){height=250px}
+<img src="Travel1.png" height="400">
+
 
 ## Getting Started
 

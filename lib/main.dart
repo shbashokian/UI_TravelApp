@@ -130,6 +130,8 @@ class _MyHomePageState extends State<MyHomePage> {
             SizedBox(
               height: 10,
             ),
+
+            //added details
             Expanded(
               child: SingleChildScrollView(
                 child: Container(

@@ -3,7 +3,7 @@
 A new Flutter project.
 
 
-<img src="Travel1.png" height="400">
+<img src="Travel1.png" height="600">
 
 
 ## Getting Started

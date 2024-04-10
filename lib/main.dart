@@ -80,6 +80,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                   ),
 
+                  //small travel icons
                   Positioned(
                     right: 0,
                     top: 80,

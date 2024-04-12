@@ -1,4 +1,4 @@
-# travelapp
+# Travel Flutter App - UI Design
 
 A new Flutter project.
 
